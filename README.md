@@ -1,5 +1,5 @@
 # Andy Morrison, Frontend Engineer
-**andy@morrisondevelopers.com** ❖ (631) 807-2659 ❖ New York, NY ❖ [GitHub](https://github.com/andrewmorrisondev) ❖ [LinkedIn](https://www.linkedin.com/in/andy-morrison-b94945246/) ❖ [Portfolio](https://lcdigital.io/)
+**andy@morrisondevelopers.com** ❖ New York, NY ❖ [GitHub](https://github.com/andrewmorrisondev) ❖ [LinkedIn](https://www.linkedin.com/in/andy-morrison-b94945246/) ❖ [Portfolio](https://lcdigital.io/)
 
 ---
 
